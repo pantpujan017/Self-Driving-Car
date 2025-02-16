@@ -83,7 +83,6 @@ python Training.py
 
 ## 🔄 Future Improvements
 
-- [ ] Implement lane detection
 - [ ] Add GPS integration
 - [ ] Enhance night-time performance
 - [ ] Implement advanced path planning
